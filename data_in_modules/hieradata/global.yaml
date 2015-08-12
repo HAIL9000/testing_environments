@@ -1,0 +1,9 @@
+---
+    apache_server_port: 9090
+    data_module::apache_server_port_implied: 8080
+    data_module::hash_name:
+        hiera_hash_key: hiera_class_c
+    data_module::array_key:
+        - hiera_array_a
+        - hiera_array_b
+  

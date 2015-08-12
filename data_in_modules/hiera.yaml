@@ -1,0 +1,10 @@
+---
+    :backends:
+      - "yaml"
+    :logger: "console"
+    :hierarchy:
+      - "global"
+
+    :yaml:
+      :datadir: "/tmp/lookup.3J2L59/hieradata"
+  
